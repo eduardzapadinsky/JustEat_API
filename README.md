@@ -8,7 +8,7 @@ code in the UK.
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/just-eat-api-client.git
+   git clone https://github.com/eduardzapadinsky/JustEat_API
    ```
 
 2. Navigate to the project directory:
